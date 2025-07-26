@@ -30,7 +30,7 @@ Here are some of the projects I've worked on to build my skills.
 - **Skills Demonstrated:** `Pandas`, `Matplotlib`, `Seaborn`, `Data Cleaning`, `Data Visualization`, `EDA`.
 - **[View Project ->](https://github.com/h0s0r/Analyzing_Retail_Sales_Data)**
 
-### 2. [Case Study 2 Title - e.g., Boston Housing Price Prediction]
+### 2. [Case Study 2 Title - e.g., California Housing Price Prediction]
 - **Description:** [A brief description of the project will go here once you complete it.]
 - **Skills Demonstrated:** [Skills will go here.]
 - **[View Project ->]()**
